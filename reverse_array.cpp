@@ -30,6 +30,6 @@ int32_t main(){
     reverse(arr,6);
     printArray(arr,6);
 
-    reverse(arr,5);
-    printArray(arr,5);
+    reverse(brr,5);
+    printArray(brr,5);
 }
